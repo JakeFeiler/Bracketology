@@ -14,11 +14,11 @@ field_predictions.csv - Ranking of all teams in order of most likely to least li
 overall_seed_predictions.csv - Overall seed ranking of the top 68 teams, 1-68. Note this order need not match the field_predictions order.
 bracket.txt - My attempt to build a bracket out of the above file.
 
-Results:
-2025: 
-65/68 teams correct.
-37 on correct seed line.
-20 off by 1 seed line.
-6 off by 2 seed lines.
-2 off by 3 seed lines.
-Final score - 326
+Results:  
+2025:  
+65/68 teams correct.   
+37 on correct seed line.  
+20 off by 1 seed line.  
+6 off by 2 seed lines.  
+2 off by 3 seed lines.  
+Final score - 326  
